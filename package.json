@@ -14,7 +14,8 @@
   "author": "sanket gotmare",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.1"
   },
   "dependencies": {
     "dot": "^1.1.3",
